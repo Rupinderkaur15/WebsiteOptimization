@@ -20,7 +20,6 @@ Alternatively, you can view the site on github pages by using the links below.
 
 5. In the changePizzaSizes function I created an additional for loop for setting the element's width. This was done to group all of the DOM calls and the Rendering together in separate loops. This prevents the browser from having to render the page over and over in between setting the styles.
 
-To view the portfolio site on github pages go to 
+To view the portfolio site on github pages go to https://github.com/Rupinderkaur15/WebsiteOptimization
 
-To view the pizza site on github pages go to https://github.com/Rupinderkaur15/WebsiteOptimization
-# WebsiteOptimization
+To view the pizza site on github pages go to https://github.com/Rupinderkaur15/WebsiteOptimization/blob/master/views/pizza.html
