@@ -22,4 +22,4 @@ Alternatively, you can view the site on github pages by using the links below.
 
 To view the portfolio site on github pages go to https://github.com/Rupinderkaur15/WebsiteOptimization
 
-To view the pizza site on github pages go to https://github.com/Rupinderkaur15/WebsiteOptimization/views/pizza.html
+To view the pizza site on github pages go to https://github.com/Rupinderkaur15/WebsiteOptimization/blob/master/views/pizza.html
